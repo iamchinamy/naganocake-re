@@ -1,24 +1,39 @@
-# README
+# 長野ケーキ（ECサイト）
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+長野県にある小さな洋菓子店「ながのCAKE」の商品を通販するためのECサイト。
 
-Things you may want to cover:
+管理機能を含んだ通販サイトを開発する。
 
-* Ruby version
 
-* System dependencies
+## 背景
+元々近隣住民が顧客だったが、Instagramで人気になり、全国から注文が増えた。
 
-* Configuration
+情報管理を簡潔にするためにも、管理機能を含んだ通販サイトを開設しようと思い至った。
 
-* Database creation
 
-* Database initialization
+## サイト機能
+** 管理側 **
+- 登録、ログイン、ログアウト（メールアドレス・パスワード）
+- トップページ
+- 商品の新規追加、一覧、詳細、編集、販売停止（売り切れ表示に切り替え）
+- 商品ジャンルの新規追加、一覧、詳細
+- 商品ジャンルの有効無効の切り替え
+- 会員の一覧、詳細、編集、退会処理
+- 会員の注文履歴一覧、詳細
+- 注文ステータス、制作ステータスの切り替え
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+** 会員側 **
+- ログイン、ログアウト、退会（メールアドレス・パスワード）
+- トップページ
+- Aboutページ
+- 商品の一覧、詳細
+- ジャンル検索
+- カート機能
+- カートに入れた商品の個数変更、削除、合計金額、再計算
+- 購入情報の入力、届け先選択
+- 購入確認
+- サンクスページ
+- マイページの閲覧、編集
+- 注文履歴一覧、詳細
+- 配送先一覧、詳細、編集

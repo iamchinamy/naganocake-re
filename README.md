@@ -68,7 +68,7 @@
 
 
 ** ER図 **
-《URL記載》
+https://drive.google.com/file/d/1tjn3LeOkWzY20Psqg0_t5WPcuec30LVf/view?usp=sharing
 
 
 ** テーブル定義書 **
@@ -82,3 +82,6 @@
 ** 詳細設計 **
 《URL記載》
 
+
+** プロジェクト管理 **
+https://docs.google.com/spreadsheets/d/1TQ7FC12Xuc2X9Ke5g-9kgXCD2k3N6yNKluQIfIwKZho/edit?usp=sharing

@@ -72,11 +72,11 @@ https://drive.google.com/file/d/1tjn3LeOkWzY20Psqg0_t5WPcuec30LVf/view?usp=shari
 
 
 ** テーブル定義書 **
-《URL記載》
+https://docs.google.com/spreadsheets/d/1inSe9M8zYjvC5Gu_o2zj21gH6ofhesalWoRToyxWUbo/edit?usp=sharing
 
 
 ** ワイヤーフレーム **
-《URL記載》
+https://drive.google.com/file/d/1amvXyQK3YtubRGJ4T0JLL7mn3U9xGHEI/view?usp=sharing
 
 
 ** 詳細設計 **
